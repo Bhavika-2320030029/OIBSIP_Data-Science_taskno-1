@@ -2,11 +2,13 @@ TASK 1: IRIS FLOWER CLASSIFICATION
 
 Repository Name: Iris-Flower-Classification
 
-Project Title
+
+Project Title:
 
 Iris Flower Classification Using Machine Learning
 
- Problem Statement
+
+ Problem Statement:
 
 The Iris flower dataset contains measurements of iris flowers belonging to three different species:
 
@@ -18,7 +20,8 @@ Virginica
 
 The objective of this project is to train a machine learning model that can accurately classify the species of an iris flower based on its measurements.
 
- Objectives
+
+ Objectives:
 
 To understand the Iris dataset
 
@@ -28,7 +31,8 @@ To build a classification model
 
 To evaluate the performance of the model
 
- Dataset Description
+
+ Dataset Description:
 
 The dataset consists of the following features:
 
@@ -44,7 +48,8 @@ Species (Target Variable)
 
 The dataset is obtained from the Scikit-learn library.
 
- Methodology
+
+ Methodology:
 
 Import necessary libraries
 
@@ -58,7 +63,8 @@ Train a classification model
 
 Evaluate the model performance
 
- Machine Learning Models Used
+
+ Machine Learning Models Used:
 
 Logistic Regression / K-Nearest Neighbors / Decision Tree
 
@@ -68,7 +74,8 @@ Accuracy Score
 
 Confusion Matrix
 
- Tools & Technologies
+
+ Tools & Technologies:
 
 Python
 
@@ -81,8 +88,7 @@ Matplotlib, Seaborn
 Scikit-learn
 
 
-
-✅ Conclusion
+ Conclusion:
 
 The model successfully classifies iris flower species with high accuracy, demonstrating the effectiveness of machine learning classification techniques.
 
